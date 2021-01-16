@@ -33,6 +33,7 @@ module GitHubChangelogGenerator
       due_tag
       enhancement_labels
       enhancement_prefix
+      include_tags_regex
       exclude_labels
       exclude_tags
       exclude_tags_regex
